@@ -16,7 +16,7 @@ fisher tsub/hatebu-watch
 ## Usage
 
 ```fish
-hatebu-watch
+hatebu-watch <URL>
 ```
 
 [travis-link]: https://travis-ci.org/tsub/hatebu-watch
